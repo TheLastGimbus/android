@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="TheLastGimbus/lineage4microg_apps" path="prebuilts/tlg-aurora-store" remote="github" revision="master" clone-depth="1" />
+</manifest>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="vendor/partner_gms" name="TheLastGimbus/android_vendor_partner_gms" remote="github" revision="update-microg" clone-depth="1" />
+</manifest>
+
